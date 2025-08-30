@@ -165,4 +165,4 @@ This script uses the Vercel API endpoints:
 
 ##  📄 License
 
-ISC
+MIT
